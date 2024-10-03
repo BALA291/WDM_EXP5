@@ -159,4 +159,4 @@ if __name__ == "__main__":
 
 
 ### Result:
-Thus, the implementation of Information Retrieval using Boolean model had been successfully executed using python
+Thus, the implementation of Information Retrieval using Boolean model had been successfully executed using python.
